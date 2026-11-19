@@ -125,6 +125,8 @@ Program Boolean Board
 Change switches and verify LED output
 
 ## OUTPUT
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/a9f8412b-485b-4d3b-a50e-d8a3a713bce1" />
+
 
 ## RESULT
 The 8×1 multiplexer was successfully designed using 2×1 multiplexers, simulated in Vivado, and implemented on the Boolean Board (Spartan-7).
